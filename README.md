@@ -1,2 +1,2 @@
 # omx
-Open Matrix Format
+Open Matrix Format - https://github.com/osPlanning/omx
